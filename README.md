@@ -1,2 +1,2 @@
 # jermhub
-My samples web project for beginners
+My samples of web projects for beginners
